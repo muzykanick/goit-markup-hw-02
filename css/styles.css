@@ -63,11 +63,26 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
+.link-contacts {
+color: #434455;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
 .link:hover {
 color: #404BBF;
 }
 
 .link:focus {
+color: #404BBF;
+}
+
+.link-contacts:hover {
+color: #404BBF;
+}
+
+.link-contacts:focus {
 color: #404BBF;
 }
 
