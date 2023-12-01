@@ -163,10 +163,11 @@ text-transform: capitalize;
 
 .our-team-list{
 list-style: none;
+background-color: #F4F4FD;
 }
 
 .our-team-list-item {
-    background-color: #F4F4FD;
+    background-color: #FFF;
 }
 
 .our-team-list-title {
