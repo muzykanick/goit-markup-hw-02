@@ -89,4 +89,14 @@ color: #FFF;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
+letter-spacing: 0.04;
 }
+
+.button:hover {
+background: #404BBF;
+}
+
+.button:focus {
+background: #404BBF;
+}
+
