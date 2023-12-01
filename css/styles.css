@@ -38,10 +38,11 @@ line-height: 1.5;
 
 .logo {
 color: #4D5AE5;
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.1;
+line-height: 1.17;
+letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
@@ -64,6 +65,7 @@ letter-spacing: 0.02em;
 }
 
 .link {
+color: #434455;
 font-size: 16px;
 line-height: 1.5;
 }
