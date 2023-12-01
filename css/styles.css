@@ -6,14 +6,6 @@ font-style: normal;
 font-weight: 400;
 }
 
-h1 {
-color: #FFF;
-text-align: center;
-font-size: 56px;
-font-weight: 700;
-line-height: 1;
-}
-
 h2 {
 color: #2E2F42;
 text-align: center;
@@ -79,7 +71,16 @@ color: #404BBF;
 }
 
 .hero-section {
-background: #2E2F42 ;
+background: #2E2F42;
+}
+
+.hero-title {
+color: #FFF;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;   
 }
 
 .button {
@@ -100,6 +101,8 @@ background: #404BBF;
 background: #404BBF;
 }
 
+
+
 .features-list {
 
 }
@@ -118,3 +121,4 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+
