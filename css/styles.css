@@ -165,5 +165,19 @@ letter-spacing: 0.02em;
 .our-portfolio-paragraph {
 font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
+}
+
+.footer {
+background: #2E2F42;
+}
+
+.accent-footer {
+color: #F4F4FD;
+}
+
+.footer-paragraph {
+color: #F4F4FD;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
